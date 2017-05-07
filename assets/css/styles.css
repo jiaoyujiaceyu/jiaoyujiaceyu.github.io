@@ -700,45 +700,45 @@ a.btn-cta {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #40babd;
+  background: #ffffff;
   padding-top: 4px;
   color: #fff;
 }
 .team-section .social a.google {
-  background: #dd4b39;
+  background: #ffffff;
 }
 .team-section .social a.google:hover {
-  background: #d73925;
+  background: #ffffff;
 }
 .team-section .social a.twitter {
-  background: #55acee;
+  background: #ffffff;
 }
 .team-section .social a.twitter:hover {
-  background: #3ea1ec;
+  background: #ffffff;
 }
 .team-section .social a.facebook {
-  background: #3b5998;
+  background: #ffffff;
 }
 .team-section .social a.facebook:hover {
-  background: #344e86;
+  background: #ffffff;
 }
 .team-section .social a.linkedin {
-  background: #1E6FBA;
+  background: #ffffff;
 }
 .team-section .social a.linkedin:hover {
-  background: #1a62a4;
+  background: #ffffff;
 }
 .team-section .social a.github {
-  background: #444;
+  background: #ffffff;
 }
 .team-section .social a.github:hover {
-  background: #373737;
+  background: #ffffff;
 }
 .team-section .social a.dribbble {
-  background: #EC4D8B;
+  background: #ffffff;
 }
 .team-section .social a.dribbble:hover {
-  background: #ea367c;
+  background: #ffffff;
 }
 .team-section .member-desc {
   color: #616670;
